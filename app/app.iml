@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":app" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$/.." external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":app" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="googleDebug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleGoogleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileGoogleDebugSources" />
+        <afterSyncTasks>
+          <task>generateGoogleDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../gst/app/src/main/res" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/../../gst/app/build/intermediates/javac/googleDebug/compileGoogleDebugJavaWithJavac/classes" />
+    <output-test url="file://$MODULE_DIR$/../../gst/app/build/intermediates/javac/googleDebugUnitTest/compileGoogleDebugUnitTestJavaWithJavac/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../gst/app">
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/build/generated/source/apt/google/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/build/generated/aidl_source_output_dir/googleDebug/compileGoogleDebugAidl/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/build/generated/source/buildConfig/google/debug" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/build/generated/renderscript_source_output_dir/googleDebug/compileGoogleDebugRenderscript/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/build/generated/res/rs/google/debug" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/build/generated/res/resValues/google/debug" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/googleDebug/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/googleDebug/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/googleDebug/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/googleDebug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/googleDebug/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/googleDebug/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/googleDebug/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/build/generated/source/apt/androidTest/google/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/build/generated/aidl_source_output_dir/googleDebugAndroidTest/compileGoogleDebugAndroidTestAidl/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/build/generated/source/buildConfig/androidTest/google/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/build/generated/renderscript_source_output_dir/googleDebugAndroidTest/compileGoogleDebugAndroidTestRenderscript/out" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/build/generated/res/rs/androidTest/google/debug" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/build/generated/res/resValues/androidTest/google/debug" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTestGoogleDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTestGoogleDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTestGoogleDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTestGoogleDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTestGoogleDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTestGoogleDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTestGoogleDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/build/generated/source/apt/test/google/debug" isTestSource="true" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/testGoogleDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/testGoogleDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/testGoogleDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/testGoogleDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/testGoogleDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/testGoogleDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/testGoogleDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/google/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/google/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/google/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/google/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/google/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/google/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/google/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/testGoogle/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/testGoogle/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/testGoogle/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/testGoogle/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/testGoogle/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/testGoogle/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/testGoogle/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTestGoogle/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTestGoogle/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTestGoogle/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTestGoogle/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTestGoogle/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTestGoogle/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTestGoogle/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/debug/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/debug/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/debug/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/debug/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTestDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTestDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTestDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTestDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTestDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTestDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTestDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/testDebug/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/testDebug/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/testDebug/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/testDebug/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/testDebug/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/testDebug/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/testDebug/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/main/assets" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/main/shaders" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTest/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTest/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTest/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTest/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTest/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/androidTest/shaders" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/test/res" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/test/assets" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/test/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/test/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../gst/app/src/test/shaders" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../gst/app/build/generated/not_namespaced_r_class_sources" />
+      <excludeFolder url="file://$MODULE_DIR$/../../gst/app/build/generated/source/r" />
+      <excludeFolder url="file://$MODULE_DIR$/../../gst/app/build/intermediates/apk_list" />
+      <excludeFolder url="file://$MODULE_DIR$/../../gst/app/build/intermediates/build-info" />
+      <excludeFolder url="file://$MODULE_DIR$/../../gst/app/build/intermediates/bundle_manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/../../gst/app/build/intermediates/check_manifest_result" />
+      <excludeFolder url="file://$MODULE_DIR$/../../gst/app/build/intermediates/compatible_screen_manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/../../gst/app/build/intermediates/incremental" />
+      <excludeFolder url="file://$MODULE_DIR$/../../gst/app/build/intermediates/instant_app_manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/../../gst/app/build/intermediates/instant_run_merged_manifests" />
+      <excludeFolder url="file://$MODULE_DIR$/../../gst/app/build/intermediates/lint_jar" />
+      <excludeFolder url="file://$MODULE_DIR$/../../gst/app/build/intermediates/merged_assets" />
+      <excludeFolder url="file://$MODULE_DIR$/../../gst/app/build/intermediates/merged_manifests" />
+      <excludeFolder url="file://$MODULE_DIR$/../../gst/app/build/intermediates/merged_shaders" />
+      <excludeFolder url="file://$MODULE_DIR$/../../gst/app/build/intermediates/metadata_application_id" />
+      <excludeFolder url="file://$MODULE_DIR$/../../gst/app/build/intermediates/metadata_feature_manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/../../gst/app/build/intermediates/prebuild" />
+      <excludeFolder url="file://$MODULE_DIR$/../../gst/app/build/intermediates/shader_assets" />
+      <excludeFolder url="file://$MODULE_DIR$/../../gst/app/build/intermediates/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/../../gst/app/build/outputs" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-ads-identifier:16.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: backport-util-concurrent:backport-util-concurrent:3.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: io.fabric.sdk.android:fabric:1.4.7@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:monitor:1.1.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.maven:maven-project:2.2.1@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.maven.wagon:wagon-file:1.0-beta-6@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.maven.wagon:wagon-provider-api:1.0-beta-6@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.ow2.asm:asm-commons:7.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.asynclayoutinflater:asynclayoutinflater:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.ow2.asm:asm-analysis:7.0@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.robolectric:resources:4.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.robolectric:junit:4.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.media:media:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.crashlytics.sdk.android:crashlytics:2.9.8@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.crashlytics.sdk.android:answers:1.4.6@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.guava:guava:20.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-v4:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.almworks.sqlite4java:sqlite4java:0.282@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.maven:maven-settings:2.2.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-analytics-impl:16.2.4@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.codehaus.plexus:plexus-container-default:1.0-alpha-9-stable-1@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.bouncycastle:bcprov-jdk15on:1.52@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.maven:maven-plugin-registry:2.2.1@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.ibm.icu:icu4j:53.1@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.ant:ant-launcher:1.8.0@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.maven:maven-profile:2.2.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.print:print:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: nekohtml:nekohtml:1.9.6.2@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: nekohtml:xercesMinimal:1.9.6.2@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.0.0@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-basement:16.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.crashlytics.sdk.android:beta:1.2.10@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.apps.common.testing.accessibility.framework:accessibility-test-framework:2.1@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.ow2.asm:asm:7.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-analytics:16.0.6@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.maven:maven-artifact:2.2.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-measurement-connector:17.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-api:16.0.4@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.maven:maven-error-diagnostics:2.2.1@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.robolectric:robolectric:4.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cardview:cardview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.recyclerview:recyclerview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.ow2.asm:asm-tree:7.0@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.robolectric:annotations:4.1@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.maven.wagon:wagon-http-lightweight:1.0-beta-6@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.ant:ant:1.8.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-iid:17.0.3@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-location:16.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.crashlytics.sdk.android:crashlytics-core:2.6.7@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-places-placereport:16.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.maven:maven-artifact-manager:2.2.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-ui:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.material:material:1.1.0-alpha02@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.maven:maven-ant-tasks:2.1.3@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.protobuf:protobuf-java:2.6.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-iid-interop:16.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-core:16.0.6@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.maven.wagon:wagon-http-shared:1.0-beta-6@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-measurement-connector-impl:17.0.4@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.0.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-stats:16.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.maven:maven-model:2.2.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-base:16.0.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.maven:maven-repository-metadata:2.2.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.transition:transition:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.12@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.firebase:firebase-common:16.0.3@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.robolectric:utils:4.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.0.0@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-library:1.3@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.robolectric:shadows-framework:4.1@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.codehaus.plexus:plexus-interpolation:1.11@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.codehaus.plexus:plexus-utils:1.5.15@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-measurement-base:16.0.5@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: classworlds:classworlds:1.1-alpha-2@jar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.robolectric:shadowapi:4.1@jar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.0.0@jar" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.android.gms:play-services-tasks:16.0.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.robolectric:sandbox:4.1@jar" level="project" />
+  </component>
+</module>

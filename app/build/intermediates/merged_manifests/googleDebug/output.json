@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkData":{"type":"MAIN","splits":[],"versionCode":55,"versionName":"5.18","enabled":true,"outputFile":"app-google-debug.apk","fullName":"googleDebug","baseName":"google-debug"},"path":"AndroidManifest.xml","properties":{"packageId":"org.traccar.client","split":"","minSdkVersion":"15"}}]
